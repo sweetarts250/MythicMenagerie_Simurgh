@@ -2812,3 +2812,52 @@ Script Stack (0 frames) :
 [2023.12.03-21.30.21:487][261]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/Level/Main.Main:PersistentLevel.SkeletalMeshActor_UAID_B42E99A1DEB1DABC01_1639799073
 [2023.12.03-21.30.21:487][261]LogContentValidation: Display: Validating /Script/CineCameraRigs.CineCameraRigRail /Game/Level/Main.Main:PersistentLevel.CineCameraRigRail_UAID_CC6B1E41EBBA47C201_1773698522
 [2023.12.03-21.30.21:487][261]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01.shot0020_01
+[2023.12.03-21.32.21:983][896]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.32.22:078][897]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.32.33:168][178]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.32.36:982][273]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.32.50:716][603]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.32.50:805][604]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.32.58:226][811]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.32.58:323][812]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.33.00:004][853]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.33.00:141][855]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.35.20:300][890]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.35.20:661][897]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.35.32:872][202]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.35.33:150][207]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.37.02:777][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.03-21.37.02:892][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.12.03-21.37.02:920][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.03-21.37.02:939][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.12.03-21.37.02:958][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 181 ms (total: 11.8 sec)
+[2023.12.03-21.37.07:972][683]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.37.08:386][691]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.37.14:490][851]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.37.14:930][860]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.37.50:922][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.12.03-21.37.50:930][810]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Main' took 0.033
+[2023.12.03-21.37.50:936][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/BnB/shot0040_01] ([1] browsable assets)...
+[2023.12.03-21.37.50:936][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/BnB/shot0040_01]
+[2023.12.03-21.37.51:801][810]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/BnB/shot0040_01_Auto7
+[2023.12.03-21.37.51:802][810]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0040_01_Auto79381CC2F43FB7495C42738AA128C6C7B.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/BnB/shot0040_01_Auto7.uasset'
+[2023.12.03-21.37.51:810][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Cinematics/Sequences/MainSequence/MainSequenceRoot] ([1] browsable assets)...
+[2023.12.03-21.37.51:810][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Cinematics/Sequences/MainSequence/MainSequenceRoot]
+[2023.12.03-21.37.51:944][810]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/MainSequenceRoot_Auto7
+[2023.12.03-21.37.51:947][810]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MainSequenceRoot_Auto75751F56541B26F66E5926287972C98D7.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/MainSequenceRoot_Auto7.uasset'
+[2023.12.03-21.37.51:955][810]LogFileHelpers: Auto-saving content packages took 1.025
+[2023.12.03-21.38.14:505][350]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.38.14:815][356]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.38.38:048][904]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-21.38.38:709][919]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-21.46.51:105][352]LogDerivedDataCache: C:/Users/elkinse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:22.164 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 80232 files in 65708 folders with total size 2584 MiB.
+[2023.12.03-21.50.18:823][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.12.03-21.50.18:832][686]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.03-21.50.19:732][686]LogSavePackage: Moving output files for package: /Game/Animation/Cinematics/Sequences/MainSequence/shot/BnB/shot0040_01
+[2023.12.03-21.50.19:735][686]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0040_013BBC2F64428E1193EEEEE6BFB24D32B8.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/Animation/Cinematics/Sequences/MainSequence/shot/BnB/shot0040_01.uasset'
+[2023.12.03-21.50.19:889][686]LogSavePackage: Moving output files for package: /Game/Animation/Cinematics/Sequences/MainSequence/MainSequenceRoot
+[2023.12.03-21.50.19:892][686]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MainSequenceRoot7BECAF414CD88987FEFF40A835DB05D7.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/Animation/Cinematics/Sequences/MainSequence/MainSequenceRoot.uasset'
+[2023.12.03-21.50.19:907][686]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.07 sec (total: 12.9 sec)
+[2023.12.03-21.50.19:910][686]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.03-21.50.19:912][686]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Animation/Cinematics/Sequences/MainSequence/shot/BnB/shot0040_01.shot0040_01
+[2023.12.03-21.50.19:912][686]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Animation/Cinematics/Sequences/MainSequence/MainSequenceRoot.MainSequenceRoot
