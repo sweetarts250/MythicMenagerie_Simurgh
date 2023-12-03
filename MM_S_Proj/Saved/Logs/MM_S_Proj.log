@@ -2568,3 +2568,247 @@ Script Stack (0 frames) :
 [2023.12.03-19.33.56:468][915]AssetCheck: New page: Asset Save: multiple assets
 [2023.12.03-19.33.56:469][915]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01.shot0020_01
 [2023.12.03-19.33.56:469][915]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Animation/Cinematics/Sequences/MainSequence/MainSequenceRoot.MainSequenceRoot
+[2023.12.03-19.46.51:154][471]LogDerivedDataCache: C:/Users/elkinse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:22.224 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 80232 files in 65708 folders with total size 2584 MiB.
+[2023.12.03-19.58.33:735][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.12.03-19.58.33:756][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto2
+[2023.12.03-19.58.33:756][877]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/JCJGF1VRE3J33GHBFI6T05_Auto2917DE0584A7BF311A5DE8EB019F21021.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto2.uasset'
+[2023.12.03-19.58.33:770][877]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Main' took 0.057
+[2023.12.03-19.58.33:770][877]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.057
+[2023.12.03-19.58.33:777][877]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01] ([1] browsable assets)...
+[2023.12.03-19.58.33:777][877]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01]
+[2023.12.03-19.58.34:076][877]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto2
+[2023.12.03-19.58.34:076][877]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0020_01_Auto2048D5C5A4B42084CF86192A895C588C2.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto2.uasset'
+[2023.12.03-19.58.34:079][877]LogFileHelpers: Auto-saving content packages took 0.308
+[2023.12.03-19.59.46:036][521]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-19.59.47:297][543]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.00.55:832][955]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.12.03-20.00.55:832][955]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.12.03-20.00.55:834][955]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/Level/Main.Main:PersistentLevel.Actor_0
+[2023.12.03-20.00.55:834][955]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/Level/Main.Main:PersistentLevel.Actor_0
+[2023.12.03-20.00.58:823][167]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.12.03-20.00.58:823][167]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.12.03-20.00.58:828][167]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/Level/Main.Main:PersistentLevel.Actor_UAID_CC6B1E41EBBA4EC201_1122577757
+[2023.12.03-20.00.58:828][167]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/Level/Main.Main:PersistentLevel.Actor_UAID_CC6B1E41EBBA4EC201_1122577757
+[2023.12.03-20.01.29:611][270]EditorErrors: New page: Actor attachment
+[2023.12.03-20.01.33:055][545]EditorErrors: New page: Actor attachment
+[2023.12.03-20.01.38:763][903]EditorErrors: New page: Actor attachment
+[2023.12.03-20.02.22:114][458]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.02.40:018][851]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.12.03-20.02.40:019][851]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2023.12.03-20.03.29:385][239]LogViewport: Scene viewport resized to 1321x824, mode Windowed.
+[2023.12.03-20.03.29:431][239]LogViewport: Scene viewport resized to 2224x824, mode Windowed.
+[2023.12.03-20.03.29:522][240]LogViewport: Scene viewport resized to 1330x824, mode Windowed.
+[2023.12.03-20.03.29:571][241]LogViewport: Scene viewport resized to 1321x824, mode Windowed.
+[2023.12.03-20.03.31:784][300]LogViewport: Scene viewport resized to 1855x824, mode Windowed.
+[2023.12.03-20.03.31:850][301]LogViewport: Scene viewport resized to 2565x824, mode Windowed.
+[2023.12.03-20.03.31:903][302]LogViewport: Scene viewport resized to 2647x824, mode Windowed.
+[2023.12.03-20.04.07:538][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.03-20.04.07:546][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.03-20.04.07:644][434]LogViewport: Scene viewport resized to 2647x664, mode Windowed.
+[2023.12.03-20.04.14:836][612]LogViewport: Scene viewport resized to 1180x664, mode Windowed.
+[2023.12.03-20.04.23:607][814]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.12.03-20.06.01:459][432]Cmd: TRANSACTION UNDO
+[2023.12.03-20.06.01:459][432]LogEditorTransaction: Undo Set Key Value
+[2023.12.03-20.06.23:037][ 35]Cmd: TRANSACTION UNDO
+[2023.12.03-20.06.23:037][ 35]LogEditorTransaction: Undo Set Playback Range
+[2023.12.03-20.09.53:240][532]LogViewport: Scene viewport resized to 564x317, mode Windowed.
+[2023.12.03-20.09.57:055][619]LogSlate: Window 'Sequencer Curves' being destroyed
+[2023.12.03-20.12.31:977][141]LogViewport: Scene viewport resized to 564x317, mode Windowed.
+[2023.12.03-20.14.04:782][609]LogViewport: Scene viewport resized to 2647x664, mode Windowed.
+[2023.12.03-20.14.04:840][609]LogViewport: Scene viewport resized to 3840x1807, mode Windowed.
+[2023.12.03-20.14.43:837][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.12.03-20.14.43:860][405]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto3
+[2023.12.03-20.14.43:864][405]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/JCJGF1VRE3J33GHBFI6T05_Auto3A9B943F845CBB06281B5A69B99F740D8.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto3.uasset'
+[2023.12.03-20.14.44:345][405]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto3
+[2023.12.03-20.14.44:345][405]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto36EFE7A964C8EC6920792589A0D5413EA.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto3.uasset'
+[2023.12.03-20.14.44:370][405]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/C/SN/MM01ENH3HUAYVKXN4DA81B_Auto3
+[2023.12.03-20.14.44:370][405]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM01ENH3HUAYVKXN4DA81B_Auto30E0F6C404751504790AABB9DF839BB29.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/C/SN/MM01ENH3HUAYVKXN4DA81B_Auto3.uasset'
+[2023.12.03-20.14.44:394][405]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/D/6B/J30NNCP6KOOGOJX203Q4SQ_Auto3
+[2023.12.03-20.14.44:394][405]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/J30NNCP6KOOGOJX203Q4SQ_Auto363F0E9664342FE8A542B388E645A7CDC.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/D/6B/J30NNCP6KOOGOJX203Q4SQ_Auto3.uasset'
+[2023.12.03-20.14.44:410][405]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Main' took 0.613
+[2023.12.03-20.14.44:410][405]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.613
+[2023.12.03-20.14.44:415][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01] ([1] browsable assets)...
+[2023.12.03-20.14.44:415][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01]
+[2023.12.03-20.14.44:726][405]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto3
+[2023.12.03-20.14.44:726][405]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0020_01_Auto3AD4E40B0476418DF24DA3DA22143013F.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto3.uasset'
+[2023.12.03-20.14.44:729][405]LogFileHelpers: Auto-saving content packages took 0.320
+[2023.12.03-20.14.44:808][406]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.03-20.14.57:635][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.03-20.14.57:646][821]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.03-20.14.57:692][821]LogViewport: Scene viewport resized to 2647x824, mode Windowed.
+[2023.12.03-20.15.44:457][796]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.16.01:020][137]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.16.10:075][341]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.16.28:114][711]Cmd: TRANSACTION UNDO
+[2023.12.03-20.16.28:114][711]LogEditorTransaction: Undo Set Location
+[2023.12.03-20.16.28:742][718]Cmd: TRANSACTION UNDO
+[2023.12.03-20.16.28:742][718]LogEditorTransaction: Undo Set Location
+[2023.12.03-20.16.29:782][761]Cmd: TRANSACTION UNDO
+[2023.12.03-20.16.29:782][761]LogEditorTransaction: Undo Set Location
+[2023.12.03-20.16.31:016][787]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.16.57:601][341]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.17.16:789][750]Cmd: TRANSACTION UNDO
+[2023.12.03-20.17.16:789][750]LogEditorTransaction: Undo Move Elements
+[2023.12.03-20.17.35:776][160]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.17.57:680][607]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.18.26:893][181]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.18.29:800][240]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.18.39:078][432]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.19.12:417][135]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.19.38:848][666]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.20.24:563][779]Cmd: TRANSACTION UNDO
+[2023.12.03-20.20.24:563][779]LogEditorTransaction: Undo Set Key Value
+[2023.12.03-20.20.41:504][150]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.21.52:237][751]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.22.24:526][431]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.22.31:065][570]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.23.43:800][112]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.24.51:533][533]EditorErrors: New page: Actor attachment
+[2023.12.03-20.25.48:239][141]LogViewport: Scene viewport resized to 1141x642, mode Windowed.
+[2023.12.03-20.25.50:012][180]LogViewport: Scene viewport resized to 1141x642, mode Windowed.
+[2023.12.03-20.25.52:825][252]LogViewport: Scene viewport resized to 1141x642, mode Windowed.
+[2023.12.03-20.27.35:507][122]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 69780.00,-21000.00,9120.00
+[2023.12.03-20.27.37:194][208]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 61490.00,43900.00,9160.00
+[2023.12.03-20.27.37:511][209]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.27.42:545][313]Cmd: TRANSACTION UNDO
+[2023.12.03-20.27.42:545][313]LogEditorTransaction: Undo Edit Current Focal Length
+[2023.12.03-20.28.08:634][194]EditorErrors: New page: Actor attachment
+[2023.12.03-20.28.17:402][378]Cmd: DELETE
+[2023.12.03-20.28.17:402][378]Cmd: ACTOR DELETE
+[2023.12.03-20.28.17:424][378]LogEditorActor: Deleted Actor: CineCameraActor
+[2023.12.03-20.28.17:459][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.12.03-20.28.17:464][378]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2023.12.03-20.28.18:506][402]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.28.18:956][414]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.28.29:730][655]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.29.13:729][549]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.29.22:484][751]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.29.46:514][283]Cmd: TRANSACTION UNDO
+[2023.12.03-20.29.46:514][283]LogEditorTransaction: Undo Edit Depth Blur km for 50%
+[2023.12.03-20.30.06:005][724]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.30.21:247][ 53]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.30.59:221][904]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.31.01:358][954]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.31.03:557][  3]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.31.14:017][249]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.32.44:534][242]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.33.35:649][379]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.34.42:330][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.12.03-20.34.42:352][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto4
+[2023.12.03-20.34.42:355][796]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/JCJGF1VRE3J33GHBFI6T05_Auto470D5018045EE4D50CE99439B8323A6B3.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto4.uasset'
+[2023.12.03-20.34.42:834][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto4
+[2023.12.03-20.34.42:834][796]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto4AE55E7134279AEA301C67FB7A12BFA17.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto4.uasset'
+[2023.12.03-20.34.42:847][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/C/SN/MM01ENH3HUAYVKXN4DA81B_Auto4
+[2023.12.03-20.34.42:847][796]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM01ENH3HUAYVKXN4DA81B_Auto434A65281485C5D0B87940B8612244BF0.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/C/SN/MM01ENH3HUAYVKXN4DA81B_Auto4.uasset'
+[2023.12.03-20.34.42:860][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/D/6B/J30NNCP6KOOGOJX203Q4SQ_Auto4
+[2023.12.03-20.34.42:860][796]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/J30NNCP6KOOGOJX203Q4SQ_Auto48A75AC2140598AB5472FEB8A911B865F.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/D/6B/J30NNCP6KOOGOJX203Q4SQ_Auto4.uasset'
+[2023.12.03-20.34.42:874][796]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Main' took 0.571
+[2023.12.03-20.34.42:874][796]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.571
+[2023.12.03-20.34.42:881][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01] ([1] browsable assets)...
+[2023.12.03-20.34.42:882][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01]
+[2023.12.03-20.34.43:337][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto4
+[2023.12.03-20.34.43:340][796]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0020_01_Auto47A453D0B4BDF9E01107BE9A6F442E606.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto4.uasset'
+[2023.12.03-20.34.43:349][796]LogFileHelpers: Auto-saving content packages took 0.475
+[2023.12.03-20.38.03:193][876]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.39.40:385][838]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.39.43:661][915]Cmd: TRANSACTION UNDO
+[2023.12.03-20.39.43:661][915]LogEditorTransaction: Undo Delete Keys
+[2023.12.03-20.39.43:892][916]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.43.24:825][993]Cmd: TRANSACTION UNDO
+[2023.12.03-20.43.24:825][993]LogEditorTransaction: Undo Move Elements
+[2023.12.03-20.45.02:141][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.12.03-20.45.02:167][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto5
+[2023.12.03-20.45.02:170][205]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/JCJGF1VRE3J33GHBFI6T05_Auto538C9D3AD4526A5DB1FA4E68C7255107D.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto5.uasset'
+[2023.12.03-20.45.02:194][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto5
+[2023.12.03-20.45.02:198][205]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto55CF2F06C4A4199C0CB1E5891DC30AC66.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto5.uasset'
+[2023.12.03-20.45.02:221][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/C/SN/MM01ENH3HUAYVKXN4DA81B_Auto5
+[2023.12.03-20.45.02:221][205]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM01ENH3HUAYVKXN4DA81B_Auto598F2AAE44E213B6447BFA2B53669283A.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/C/SN/MM01ENH3HUAYVKXN4DA81B_Auto5.uasset'
+[2023.12.03-20.45.02:238][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/D/6B/J30NNCP6KOOGOJX203Q4SQ_Auto5
+[2023.12.03-20.45.02:238][205]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/J30NNCP6KOOGOJX203Q4SQ_Auto5F0B9ECB5414E5CE085B42D9C580A7BB6.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/D/6B/J30NNCP6KOOGOJX203Q4SQ_Auto5.uasset'
+[2023.12.03-20.45.02:253][205]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Main' took 0.145
+[2023.12.03-20.45.02:253][205]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.145
+[2023.12.03-20.45.02:260][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01] ([1] browsable assets)...
+[2023.12.03-20.45.02:260][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01]
+[2023.12.03-20.45.02:680][205]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto5
+[2023.12.03-20.45.02:683][205]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0020_01_Auto59205F9D7418B49750F57B793F9B9C80D.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto5.uasset'
+[2023.12.03-20.45.02:691][205]LogFileHelpers: Auto-saving content packages took 0.438
+[2023.12.03-20.46.51:159][490]LogDerivedDataCache: C:/Users/elkinse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:22.224 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 80232 files in 65708 folders with total size 2584 MiB.
+[2023.12.03-20.57.20:344][312]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-20.58.10:852][310]Cmd: TRANSACTION UNDO
+[2023.12.03-20.58.10:852][310]LogEditorTransaction: Undo Move Keys or Sections
+[2023.12.03-20.58.20:950][553]Cmd: TRANSACTION UNDO
+[2023.12.03-20.58.20:950][553]LogEditorTransaction: Undo Set Bool Key Value
+[2023.12.03-20.58.21:681][579]Cmd: TRANSACTION UNDO
+[2023.12.03-20.58.21:681][579]LogEditorTransaction: Undo Move Keys or Sections
+[2023.12.03-20.58.35:556][872]Cmd: TRANSACTION UNDO
+[2023.12.03-20.58.35:556][872]LogEditorTransaction: Undo Set Key Value
+[2023.12.03-21.00.07:489][998]LogSlate: Window 'Sequencer Curves' being destroyed
+[2023.12.03-21.01.21:287][659]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-21.02.13:510][728]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-21.02.40:956][312]LogEditorTransaction: Undo Move Key
+[2023.12.03-21.04.08:244][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.12.03-21.04.08:257][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.03-21.04.08:335][358]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05
+[2023.12.03-21.04.08:338][358]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/JCJGF1VRE3J33GHBFI6T05B990E58E41653D9F2BB8C6B83B1ACF95.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05.uasset'
+[2023.12.03-21.04.08:359][358]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ
+[2023.12.03-21.04.08:361][358]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/ZSI5Z2ZPFUZX8VLBCCJBTJC1BAA588478FE7339D999A996C5BBBD0.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ.uasset'
+[2023.12.03-21.04.08:382][358]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/C/SN/MM01ENH3HUAYVKXN4DA81B
+[2023.12.03-21.04.08:385][358]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM01ENH3HUAYVKXN4DA81B25263F20410CDEED1CC569AE74B73D6C.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/C/SN/MM01ENH3HUAYVKXN4DA81B.uasset'
+[2023.12.03-21.04.08:404][358]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/D/6B/J30NNCP6KOOGOJX203Q4SQ
+[2023.12.03-21.04.08:404][358]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/J30NNCP6KOOGOJX203Q4SQ086CDE994FC3586067611AA44DA1C780.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/D/6B/J30NNCP6KOOGOJX203Q4SQ.uasset'
+[2023.12.03-21.04.08:864][358]LogSavePackage: Moving output files for package: /Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01
+[2023.12.03-21.04.08:866][358]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0020_01CA9C24E24CF708309BF7A3B2F2B482E4.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01.uasset'
+[2023.12.03-21.04.08:896][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 638 ms (total: 11.0 sec)
+[2023.12.03-21.04.08:908][358]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.03-21.04.08:909][358]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/Level/Main.Main:PersistentLevel.SkeletalMeshActor_UAID_B42E99A1DEB1DABC01_1639799073
+[2023.12.03-21.04.08:909][358]LogContentValidation: Display: Validating /Script/CineCameraRigs.CineCameraRigRail /Game/Level/Main.Main:PersistentLevel.CineCameraRigRail_UAID_CC6B1E41EBBA47C201_1773698522
+[2023.12.03-21.04.08:909][358]LogContentValidation: Display: Validating /Script/CinematicCamera.CineCameraActor /Game/Level/Main.Main:PersistentLevel.CineCameraActor_UAID_CC6B1E41EBBA47C201_2073176523
+[2023.12.03-21.04.08:909][358]LogContentValidation: Display: Validating /Script/Engine.Actor /Game/Level/Main.Main:PersistentLevel.Actor_UAID_CC6B1E41EBBA4EC201_1122577757
+[2023.12.03-21.04.08:909][358]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01.shot0020_01
+[2023.12.03-21.07.18:849][779]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-21.09.38:047][667]Cmd: TRANSACTION UNDO
+[2023.12.03-21.09.38:047][667]LogEditorTransaction: Undo Move Elements
+[2023.12.03-21.10.36:606][888]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-21.13.31:427][503]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-21.13.40:669][700]LogViewport: Scene viewport resized to 462x260, mode Windowed.
+[2023.12.03-21.14.33:497][796]Cmd: TRANSACTION UNDO
+[2023.12.03-21.14.33:498][796]LogEditorTransaction: Undo Add Keys at Current Time
+[2023.12.03-21.14.46:296][ 88]LogViewport: Scene viewport resized to 1141x642, mode Windowed.
+[2023.12.03-21.18.50:145][637]Cmd: TRANSACTION UNDO
+[2023.12.03-21.18.50:145][637]LogEditorTransaction: Undo Set Key Value
+[2023.12.03-21.19.06:997][ 54]Cmd: TRANSACTION UNDO
+[2023.12.03-21.19.06:998][ 54]LogEditorTransaction: Undo Set Key Value
+[2023.12.03-21.19.34:889][858]LogEditorTransaction: Undo Move Key
+[2023.12.03-21.19.52:267][361]LogEditorTransaction: Undo Move Key
+[2023.12.03-21.19.58:431][534]LogEditorTransaction: Undo Move Key
+[2023.12.03-21.19.59:031][547]LogEditorTransaction: Undo Move Key
+[2023.12.03-21.20.08:383][782]Cmd: TRANSACTION UNDO
+[2023.12.03-21.20.08:383][782]LogEditorTransaction: Undo Add Keys at Current Time
+[2023.12.03-21.20.39:142][540]Cmd: TRANSACTION UNDO
+[2023.12.03-21.20.39:142][540]LogEditorTransaction: Undo Set Key Value
+[2023.12.03-21.21.48:275][147]LogEditorTransaction: Undo Move Key
+[2023.12.03-21.24.03:249][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.12.03-21.24.03:275][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto6
+[2023.12.03-21.24.03:278][ 55]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/JCJGF1VRE3J33GHBFI6T05_Auto6198D321744B5BA82523BA38AAB04123D.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05_Auto6.uasset'
+[2023.12.03-21.24.03:300][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto6
+[2023.12.03-21.24.03:303][ 55]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto6F575D1B9421AB56991394B8D4CBF8357.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ_Auto6.uasset'
+[2023.12.03-21.24.03:325][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/Main' took 0.123
+[2023.12.03-21.24.03:325][ 55]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.123
+[2023.12.03-21.24.03:332][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01] ([1] browsable assets)...
+[2023.12.03-21.24.03:332][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01]
+[2023.12.03-21.24.03:756][ 55]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto6
+[2023.12.03-21.24.03:759][ 55]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0020_01_Auto6DE6A5E424301F5F037592E8B91E3C495.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/Autosaves/Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01_Auto6.uasset'
+[2023.12.03-21.24.03:768][ 55]LogFileHelpers: Auto-saving content packages took 0.442
+[2023.12.03-21.30.20:847][261]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.03-21.30.20:857][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.03-21.30.20:937][261]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05
+[2023.12.03-21.30.20:940][261]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/JCJGF1VRE3J33GHBFI6T05648DB8C7419B85CD9FE8C38B0A5542F0.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/2/NG/JCJGF1VRE3J33GHBFI6T05.uasset'
+[2023.12.03-21.30.20:960][261]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ
+[2023.12.03-21.30.20:963][261]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/ZSI5Z2ZPFUZX8VLBCCJBTJ992D05A6478C0D1587DF248A58B7AE7E.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/8/0C/ZSI5Z2ZPFUZX8VLBCCJBTJ.uasset'
+[2023.12.03-21.30.21:445][261]LogSavePackage: Moving output files for package: /Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01
+[2023.12.03-21.30.21:447][261]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0020_011F6A284B44814904F5E1C6967E63EBF1.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01.uasset'
+[2023.12.03-21.30.21:477][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 619 ms (total: 11.6 sec)
+[2023.12.03-21.30.21:486][261]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.03-21.30.21:487][261]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/Level/Main.Main:PersistentLevel.SkeletalMeshActor_UAID_B42E99A1DEB1DABC01_1639799073
+[2023.12.03-21.30.21:487][261]LogContentValidation: Display: Validating /Script/CineCameraRigs.CineCameraRigRail /Game/Level/Main.Main:PersistentLevel.CineCameraRigRail_UAID_CC6B1E41EBBA47C201_1773698522
+[2023.12.03-21.30.21:487][261]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01.shot0020_01
