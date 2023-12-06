@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"version": 1,
 	"changelists": [
@@ -6265,4 +6266,17 @@
 			]
 		}
 	]
+=======
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Taridgrade Studio/MythicMenagerie_Simurgh/MM_S_Proj/Content/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01.uasset"
+			]
+		}
+	]
+>>>>>>> 7170cf9c98ca9b88531fed1ba2fad26b4e32f1a2
 }
