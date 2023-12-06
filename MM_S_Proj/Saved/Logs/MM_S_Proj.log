@@ -1518,3 +1518,1182 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.06-19.44.28:672][620]LogProperty: Warning: ObjectProperty /Script/PCG.PCGEdge:OutputPin: unresolved reference to '"/Script/PCG.PCGPin'PCGEditorGraphNode_7.ToPoint_3.PCGPin_0'"'
 [2023.12.06-19.44.28:674][620]LogProperty: Warning: Illegal TEXT reference to a private object in external package (PCGPin /Game/Terrain/FoilageProps/PCG_TreeGraph.PCG_TreeGraph:PointFilter_4.PCGPin_0) from referencer (PCGEdge /Game/Terrain/FoilageProps/PCG_Grass.PCG_Grass:PCGEditorGraph_0.PCGEditorGraphNode_7.ToPoint_3.PCGPin_1.PCGEdge_0).  Import failed...
 [2023.12.06-19.44.28:674][620]LogProperty: Warning: ObjectProperty /Script/PCG.PCGEdge:OutputPin: unresolved reference to '"/Script/PCG.PCGPin'PointFilter_4.PCGPin_0'"'
+[2023.12.06-19.52.27:088][237]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-19.52.27:463][243]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-19.54.43:171][896]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-19.54.44:375][896]LogSavePackage: Moving output files for package: /Game/Terrain/FoilageProps/PCG_Grass
+[2023.12.06-19.54.44:375][896]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/PCG_GrassD86E9580466AF415C8772BBCEB44BFC5.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/Terrain/FoilageProps/PCG_Grass.uasset'
+[2023.12.06-19.54.44:405][896]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.23 sec (total: 3.40 sec)
+[2023.12.06-19.54.44:406][896]AssetCheck: New page: Asset Save: PCG_Grass
+[2023.12.06-19.54.44:407][896]LogContentValidation: Display: Validating /Script/PCG.PCGGraph /Game/Terrain/FoilageProps/PCG_Grass.PCG_Grass
+[2023.12.06-19.56.20:919][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-19.56.20:929][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-19.56.20:994][822]LogViewport: Scene viewport resized to 2951x1250, mode Windowed.
+[2023.12.06-19.56.42:520][248]LogSlate: Took 0.005987 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.12.06-19.57.38:019][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-19.57.38:027][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-19.57.38:045][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-19.57.38:056][433]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-19.57.38:367][434]LogViewport: Scene viewport resized to 905x452, mode Windowed.
+[2023.12.06-19.57.44:540][719]LogViewport: Scene viewport resized to 803x452, mode Windowed.
+[2023.12.06-19.58.13:161][140]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_0.TreeC_0
+[2023.12.06-19.58.13:162][140]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_0.TreeC_0
+[2023.12.06-19.58.13:163][140]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_0.TreeC_0 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_0
+[2023.12.06-19.58.13:941][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_0.TreeC_0
+[2023.12.06-19.58.13:941][165]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_0.TreeC_0
+[2023.12.06-19.58.13:947][165]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_0.TreeC_0 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA3FC301_1385916168
+[2023.12.06-19.58.37:815][564]LogViewport: Scene viewport resized to 1051x591, mode Windowed.
+[2023.12.06-20.00.35:329][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_12.TreeC_12
+[2023.12.06-20.00.35:329][589]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_12.TreeC_12
+[2023.12.06-20.00.35:331][589]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_12.TreeC_12 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_1
+[2023.12.06-20.00.39:756][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_12.TreeC_12
+[2023.12.06-20.00.39:756][697]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_12.TreeC_12
+[2023.12.06-20.00.39:757][697]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_12.TreeC_12 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_2
+[2023.12.06-20.00.40:552][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_12.TreeC_12
+[2023.12.06-20.00.40:552][727]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_12.TreeC_12
+[2023.12.06-20.00.40:557][727]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_12.TreeC_12 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA3FC301_1532527169
+[2023.12.06-20.01.17:833][417]Cmd: DELETE
+[2023.12.06-20.01.17:833][417]Cmd: ACTOR DELETE
+[2023.12.06-20.01.18:009][417]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.06-20.01.18:160][417]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2023.12.06-20.01.18:175][417]LogEditorActor: Deleted 1 Actors (0.340 secs)
+[2023.12.06-20.02.51:760][ 65]LogViewport: Scene viewport resized to 905x452, mode Windowed.
+[2023.12.06-20.02.57:206][225]LogViewport: Scene viewport resized to 803x452, mode Windowed.
+[2023.12.06-20.04.47:073][110]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeA/TreeA_80.TreeA_80
+[2023.12.06-20.04.47:073][110]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeA/TreeA_80.TreeA_80
+[2023.12.06-20.04.47:075][110]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeA/TreeA_80.TreeA_80 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_3
+[2023.12.06-20.04.47:912][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeA/TreeA_80.TreeA_80
+[2023.12.06-20.04.47:912][145]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeA/TreeA_80.TreeA_80
+[2023.12.06-20.04.47:917][145]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeA/TreeA_80.TreeA_80 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA3FC301_1779887170
+[2023.12.06-20.04.51:814][212]Cmd: TRANSACTION UNDO
+[2023.12.06-20.04.51:814][212]LogEditorTransaction: Undo Scale Elements
+[2023.12.06-20.05.50:251][291]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2023.12.06-20.06.08:731][772]LogViewport: Scene viewport resized to 1205x678, mode Windowed.
+[2023.12.06-20.06.10:556][772]LogViewport: Scene viewport resized to 1201x677, mode Windowed.
+[2023.12.06-20.06.39:149][291]LogViewport: Scene viewport resized to 1358x678, mode Windowed.
+[2023.12.06-20.07.17:979][109]LogViewport: Scene viewport resized to 1201x677, mode Windowed.
+[2023.12.06-20.07.42:947][531]LogViewport: Scene viewport resized to 1358x678, mode Windowed.
+[2023.12.06-20.07.50:009][886]LogViewport: Scene viewport resized to 1201x677, mode Windowed.
+[2023.12.06-20.17.54:937][302]LogViewport: Scene viewport resized to 1358x678, mode Windowed.
+[2023.12.06-20.18.00:339][468]LogViewport: Scene viewport resized to 1201x677, mode Windowed.
+[2023.12.06-20.18.11:001][647]Cmd: TRANSACTION UNDO
+[2023.12.06-20.18.11:001][647]LogEditorTransaction: Undo Rotate Elements
+[2023.12.06-20.18.11:866][677]Cmd: TRANSACTION UNDO
+[2023.12.06-20.18.11:866][677]LogEditorTransaction: Undo Rotate Elements
+[2023.12.06-20.18.35:149][ 99]LogViewport: Scene viewport resized to 1358x678, mode Windowed.
+[2023.12.06-20.18.39:340][268]LogViewport: Scene viewport resized to 1201x677, mode Windowed.
+[2023.12.06-20.19.30:250][167]Cmd: DELETE
+[2023.12.06-20.19.30:250][167]Cmd: ACTOR DELETE
+[2023.12.06-20.19.30:341][167]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.12.06-20.19.30:365][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.12.06-20.19.30:369][167]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2023.12.06-20.19.39:197][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_67.TreeC_67
+[2023.12.06-20.19.39:197][332]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_67.TreeC_67
+[2023.12.06-20.19.39:198][332]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_67.TreeC_67 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_4
+[2023.12.06-20.19.39:820][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_67.TreeC_67
+[2023.12.06-20.19.39:820][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_67.TreeC_67
+[2023.12.06-20.19.39:825][357]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_67.TreeC_67 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA40C301_1598053347
+[2023.12.06-20.27.28:968][278]LogViewport: Scene viewport resized to 1202x677, mode Windowed.
+[2023.12.06-20.27.29:249][278]LogViewport: Scene viewport resized to 3210x1806, mode Windowed.
+[2023.12.06-20.27.46:844][583]LogViewport: Scene viewport resized to 1358x1806, mode Windowed.
+[2023.12.06-20.27.46:985][583]LogViewport: Scene viewport resized to 1201x677, mode Windowed.
+[2023.12.06-20.28.12:692][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_52.TreeC_52
+[2023.12.06-20.28.12:692][990]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_52.TreeC_52
+[2023.12.06-20.28.12:693][990]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_52.TreeC_52 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_5
+[2023.12.06-20.28.13:727][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_52.TreeC_52
+[2023.12.06-20.28.13:727][ 32]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_52.TreeC_52
+[2023.12.06-20.28.13:732][ 32]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeC/TreeC_52.TreeC_52 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA40C301_2111960348
+[2023.12.06-20.28.15:716][ 60]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA40C301_2111960348.StaticMeshComponent0, from: Remove from navoctree)
+[2023.12.06-20.28.48:316][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16
+[2023.12.06-20.28.48:316][666]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16
+[2023.12.06-20.28.48:317][666]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_6
+[2023.12.06-20.28.48:995][691]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16
+[2023.12.06-20.28.48:996][691]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16
+[2023.12.06-20.28.49:002][691]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA40C301_2147228349
+[2023.12.06-20.28.50:657][717]LogDerivedDataCache: C:/Users/elkinse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:03:39.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 134887 files in 88333 folders with total size 3427 MiB.
+[2023.12.06-20.28.50:996][724]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA40C301_2147228349.StaticMeshComponent0, from: Remove from navoctree)
+[2023.12.06-20.29.52:441][825]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_52.TreeB_52
+[2023.12.06-20.29.52:441][825]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_52.TreeB_52
+[2023.12.06-20.29.52:442][825]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_52.TreeB_52 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_7
+[2023.12.06-20.29.53:162][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_52.TreeB_52
+[2023.12.06-20.29.53:162][850]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_52.TreeB_52
+[2023.12.06-20.29.53:168][850]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_52.TreeB_52 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA41C301_1137653526
+[2023.12.06-20.30.05:166][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_2.TreeB_2
+[2023.12.06-20.30.05:166][ 60]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_2.TreeB_2
+[2023.12.06-20.30.05:168][ 60]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_2.TreeB_2 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_8
+[2023.12.06-20.30.05:823][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_2.TreeB_2
+[2023.12.06-20.30.05:823][ 80]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_2.TreeB_2
+[2023.12.06-20.30.05:829][ 80]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_2.TreeB_2 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA41C301_1150314527
+[2023.12.06-20.30.44:857][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16
+[2023.12.06-20.30.44:857][778]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16
+[2023.12.06-20.30.44:859][778]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_9
+[2023.12.06-20.30.45:667][808]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16
+[2023.12.06-20.30.45:667][808]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16
+[2023.12.06-20.30.45:672][808]LogActorFactory: Actor Factory spawned StaticMesh /Game/Terrain/FoilageProps/TreeB/TreeB_16.TreeB_16 as actor: StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA41C301_1190158528
+[2023.12.06-20.32.05:209][235]LogSlate: Window 'Viewport 2' being destroyed
+[2023.12.06-20.32.05:218][235]LogSlate: Window 'Viewport 2' being destroyed
+[2023.12.06-20.32.10:550][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.12.06-20.32.10:567][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.32.11:799][385]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/1/PC/2MYVDJ01LDO862U6KR2RWG
+[2023.12.06-20.32.11:803][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/2MYVDJ01LDO862U6KR2RWGF752241F4C3DBFA137ED7FA538DE86A1.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/1/PC/2MYVDJ01LDO862U6KR2RWG.uasset'
+[2023.12.06-20.32.12:779][385]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/8/WL/381EHLVTDR5TRUZ3236VAR
+[2023.12.06-20.32.12:779][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/381EHLVTDR5TRUZ3236VARC1586C0B44D3E114174E6398E7FEE300.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/8/WL/381EHLVTDR5TRUZ3236VAR.uasset'
+[2023.12.06-20.32.12:806][385]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/0/R4/3GLJ0TDM4CCU1PJKQOKEE4
+[2023.12.06-20.32.12:806][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/3GLJ0TDM4CCU1PJKQOKEE4F8B958834F4E97417A64888235123E0B.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/0/R4/3GLJ0TDM4CCU1PJKQOKEE4.uasset'
+[2023.12.06-20.32.12:829][385]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/0/GX/T010EYTORTH8XCDFJPESDE
+[2023.12.06-20.32.12:829][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/T010EYTORTH8XCDFJPESDE6DDE3C5A4DFF6FBFD9ECB199AA517FE7.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/0/GX/T010EYTORTH8XCDFJPESDE.uasset'
+[2023.12.06-20.32.12:853][385]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/1/WP/HOD4L3CUOSIMH7HRD0S7CD
+[2023.12.06-20.32.12:853][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/HOD4L3CUOSIMH7HRD0S7CD6E9C17B5435924E1F68904A5F95432F9.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/1/WP/HOD4L3CUOSIMH7HRD0S7CD.uasset'
+[2023.12.06-20.32.12:875][385]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/B/C9/0TF5MMFKLB9XJNK9ARMCZU
+[2023.12.06-20.32.12:875][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/0TF5MMFKLB9XJNK9ARMCZU174A5548474A02564581BBAC8641149B.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/B/C9/0TF5MMFKLB9XJNK9ARMCZU.uasset'
+[2023.12.06-20.32.12:896][385]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/8/N3/RXZJNU7ROYQD0Z3Z6JEZ8E
+[2023.12.06-20.32.12:896][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/RXZJNU7ROYQD0Z3Z6JEZ8E0C9A7DF54BAF8F69903DC69ACE7D73E7.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/8/N3/RXZJNU7ROYQD0Z3Z6JEZ8E.uasset'
+[2023.12.06-20.32.12:919][385]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/A/J2/4OLZEV3UZYGAA7I3LETBZN
+[2023.12.06-20.32.12:919][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/4OLZEV3UZYGAA7I3LETBZN31C38D294091723EB3507BAB403B7F7E.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/A/J2/4OLZEV3UZYGAA7I3LETBZN.uasset'
+[2023.12.06-20.32.12:944][385]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/C/L7/1M5P7KYJZO0E6LRURM6OC1
+[2023.12.06-20.32.12:944][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/1M5P7KYJZO0E6LRURM6OC10584F7684F68A7B69C5F3EBA6DADA437.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/C/L7/1M5P7KYJZO0E6LRURM6OC1.uasset'
+[2023.12.06-20.32.13:047][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.12.06-20.32.13:156][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.12.06-20.32.13:170][385]LogSavePackage: Moving output files for package: /Game/Terrain/FoilageProps/WaterColor_Grass
+[2023.12.06-20.32.13:174][385]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/WaterColor_GrassAF63365846095ECB0C094C996AC319B6.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/Terrain/FoilageProps/WaterColor_Grass.uasset'
+[2023.12.06-20.32.13:201][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.63 sec (total: 6.03 sec)
+[2023.12.06-20.32.13:209][385]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.06-20.32.13:209][385]LogContentValidation: Display: Validating /Script/PCG.PCGVolume /Game/Level/Main.Main:PersistentLevel.PCGVolume_UAID_CC6B1E41EBBA1FC301_1182948535
+[2023.12.06-20.32.13:210][385]LogContentValidation: Display: Validating /Script/PCG.PCGVolume /Game/Level/Main.Main:PersistentLevel.PCGVolume_UAID_CC6B1E41EBBA3AC301_1610297287
+[2023.12.06-20.32.13:210][385]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA3FC301_1532527169
+[2023.12.06-20.32.13:210][385]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA40C301_1598053347
+[2023.12.06-20.32.13:210][385]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA41C301_1190158528
+[2023.12.06-20.32.13:210][385]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA40C301_2111960348
+[2023.12.06-20.32.13:210][385]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA41C301_1150314527
+[2023.12.06-20.32.13:210][385]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA40C301_2147228349
+[2023.12.06-20.32.13:210][385]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/Level/Main.Main:PersistentLevel.StaticMeshActor_UAID_CC6B1E41EBBA41C301_1137653526
+[2023.12.06-20.32.13:210][385]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Terrain/FoilageProps/WaterColor_Grass.WaterColor_Grass
+[2023.12.06-20.32.24:931][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-20.32.24:938][723]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.06-20.32.25:045][724]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-20.33.02:437][486]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-20.33.38:659][230]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: ================================================
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: Total job queries 250, among them cache hits 99 (39.60%)
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: Tracking 151 distinct input hashes that result in 89 distinct outputs (58.94%)
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: RAM used: 3.09 MiB of 1.60 GiB budget. Usage: 0.19%
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.06-20.33.38:824][231]LogShaderCompilers: Display: ================================================
+[2023.12.06-20.33.54:307][534]Cmd: TRANSACTION UNDO
+[2023.12.06-20.33.54:307][534]LogEditorTransaction: Undo Set Key Value
+[2023.12.06-20.34.00:653][677]LogUMG: Warning: The requested size for SRetainerWidget is 0. W:811 H:0
+[2023.12.06-20.35.15:838][289]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-20.35.17:688][320]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-20.35.17:795][321]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-20.35.18:767][337]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-20.35.19:089][341]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-20.35.22:423][400]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-20.35.49:679][948]Cmd: TRANSACTION UNDO
+[2023.12.06-20.35.49:679][948]LogEditorTransaction: Undo Set Playback Range
+[2023.12.06-20.36.14:136][526]LogEditorTransaction: Undo Move Key
+[2023.12.06-20.36.49:583][346]LogEditorTransaction: Undo Move Key
+[2023.12.06-20.37.01:530][728]LogEditorTransaction: Undo Move Key
+[2023.12.06-20.38.29:809][564]Cmd: TRANSACTION UNDO
+[2023.12.06-20.38.29:809][564]LogEditorTransaction: Undo Set Location
+[2023.12.06-20.38.30:432][573]Cmd: TRANSACTION UNDO
+[2023.12.06-20.38.30:432][573]LogEditorTransaction: Undo Set Location
+[2023.12.06-20.38.30:919][587]Cmd: TRANSACTION UNDO
+[2023.12.06-20.38.30:919][587]LogEditorTransaction: Undo Set Location
+[2023.12.06-20.38.31:444][592]Cmd: TRANSACTION UNDO
+[2023.12.06-20.38.31:444][592]LogEditorTransaction: Undo Select Actors/Components
+[2023.12.06-20.38.32:360][608]Cmd: TRANSACTION UNDO
+[2023.12.06-20.38.32:360][608]LogEditorTransaction: Undo Animatable Property Changed
+[2023.12.06-20.38.42:637][803]Cmd: EDIT COPY
+[2023.12.06-20.38.43:245][814]Cmd: EDIT PASTE
+[2023.12.06-20.38.43:493][815]LogViewport: Scene viewport resized to 848x476, mode Windowed.
+[2023.12.06-20.38.46:512][961]EditorErrors: New page: Actor attachment
+[2023.12.06-20.39.28:040][992]Cmd: DELETE
+[2023.12.06-20.39.28:040][992]Cmd: ACTOR DELETE
+[2023.12.06-20.39.28:125][992]LogEditorActor: Deleted Actor: CineCameraActor
+[2023.12.06-20.39.28:163][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.12.06-20.39.28:167][992]LogEditorActor: Deleted 1 Actors (0.128 secs)
+[2023.12.06-20.39.28:291][993]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-20.39.31:018][ 51]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-20.46.58:618][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:618][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:619][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:620][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:620][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:621][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:621][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:621][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:622][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:622][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:623][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:623][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:624][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:624][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:625][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:625][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:625][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:626][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:626][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:627][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:627][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:628][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:628][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:629][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:629][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:629][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:630][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:631][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:631][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:632][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:632][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:632][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:633][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:633][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:634][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.46.58:634][755]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:317][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:318][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:318][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:319][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:319][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:319][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:320][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:320][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:321][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:321][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:322][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:322][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:322][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:323][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:323][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:325][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:325][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:326][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:326][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:326][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:327][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:327][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:328][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:328][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:329][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:329][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:330][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:330][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:330][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:331][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:331][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:332][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:332][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:332][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:333][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.03:333][850]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:549][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:549][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:550][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:550][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:551][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:551][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:551][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:552][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:552][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:553][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:553][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:554][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:554][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:554][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:555][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:555][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:556][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:556][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:556][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:557][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:557][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:558][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:558][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:559][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:559][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:560][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:560][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:560][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:561][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:561][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:562][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:562][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:563][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:564][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:564][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.10:565][991]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:425][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:426][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:426][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:427][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:428][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:428][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:429][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:429][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:430][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:430][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:431][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:431][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:432][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:432][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:432][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:433][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:433][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:434][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:434][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:435][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:435][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:435][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:436][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:436][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:437][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:437][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:438][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:438][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:438][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:439][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:440][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:440][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:440][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:441][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:441][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.11:442][ 12]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:803][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:803][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:803][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:804][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:805][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:805][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:805][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:806][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:806][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:807][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:807][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:808][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:808][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:809][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:809][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:809][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:810][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:810][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:810][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:811][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:811][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:812][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:812][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:813][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:813][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:813][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:814][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:815][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:815][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:816][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:816][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:817][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:817][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:817][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:818][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.54:818][893]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:391][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:391][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:392][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:392][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:393][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:393][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:393][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:394][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:395][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:396][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:396][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:396][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:397][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:397][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:398][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:398][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:398][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:399][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:399][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:400][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:400][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:401][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:401][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:401][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:402][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:402][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:403][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:403][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:403][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:404][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:404][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:405][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:405][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:406][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:406][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.47.56:406][924]PIE: Warning: AttachTo: '/Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.48.15:451][302]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-20.48.15:720][306]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-20.48.17:434][342]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-20.48.17:697][346]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-20.48.25:600][506]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-20.48.27:264][540]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-20.48.32:401][639]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-20.49.51:694][132]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StylizedProvencal/Blueprints/BP_RiverSpline.BP_RiverSpline
+[2023.12.06-20.49.51:695][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.06-20.49.51:695][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-20.49.51:711][132]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2023.12.06-20.49.51:978][132]LogTexture: Display: Building textures: /PCG/BP_Elements/Resources/MaterialsAndRTs/DebugMaterials/debugFrame.debugFrame (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2023.12.06-20.49.51:985][132]LogTexture: Display: Building textures: /PCG/BP_Elements/Resources/Textures/T_BlackLinearFloat.T_BlackLinearFloat (RGBA16F, 8x8 x1x1x1) (Required Memory Estimate: 0.06469 MB), EncodeSpeed: Fast
+[2023.12.06-20.49.53:697][132]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2023.12.06-20.49.53:911][132]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.213977s
+[2023.12.06-20.49.54:258][132]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 2.564466s (0.564466s overbudget)
+[2023.12.06-20.49.54:355][132]PIE: Warning: AttachTo: '/Engine/Transient.World_4:PersistentLevel.BP_RiverSpline_C_0.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.49.54:421][132]PIE: Warning: AttachTo: '/Engine/Transient.World_4:PersistentLevel.BP_RiverSpline_C_0.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2023.12.06-20.49.54:421][132]LogViewport: Scene viewport resized to 2418x275, mode Windowed.
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: ================================================
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: Total job queries 252, among them cache hits 99 (39.29%)
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: Tracking 153 distinct input hashes that result in 91 distinct outputs (59.48%)
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: RAM used: 3.13 MiB of 1.60 GiB budget. Usage: 0.19%
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.06-20.49.54:666][133]LogShaderCompilers: Display: ================================================
+[2023.12.06-20.50.26:607][179]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetArrayLibrary::Array_Add' [Element not found.]
+[2023.12.06-20.50.44:829][633]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/StylizedProvencal/Materials/MI_Water_01.MI_Water_01
+[2023.12.06-20.50.44:831][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.06-20.50.44:831][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-20.50.45:211][633]LogViewport: Scene viewport resized to 1013x1251, mode Windowed.
+[2023.12.06-20.51.55:788][ 66]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.51.55:803][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.06-20.51.55:803][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-20.51.56:139][ 66]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.51.56:139][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.51.56:139][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.51.56:139][ 66]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.51.56:151][ 66]LogViewport: Scene viewport resized to 589x623, mode Windowed.
+[2023.12.06-20.51.56:451][ 68]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.51.56:451][ 68]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.51.56:451][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.51.56:451][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.51.56:451][ 68]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.52.13:977][441]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.52.13:977][441]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.52.13:977][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.52.13:977][441]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.52.14:088][443]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.52.14:088][443]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.52.14:088][443]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.52.14:088][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.52.14:088][443]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.52.19:282][543]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.52.20:139][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.12.06-20.52.20:852][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.12.06-20.52.20:866][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.52.22:966][543]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2023.12.06-20.52.23:184][543]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.219049s
+[2023.12.06-20.52.26:011][543]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 5.049091s (3.049091s overbudget)
+[2023.12.06-20.52.27:070][543]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.52.27:073][543]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_MasterF5ABBCA942D8CA8474791EBDBF6C0B7E.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.52.27:091][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.22 sec (total: 12.2 sec)
+[2023.12.06-20.52.27:096][543]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.52.27:097][543]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.52.27:132][543]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.52.27:132][543]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.52.27:132][543]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.52.27:132][543]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.52.27:132][543]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.52.27:132][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.52.27:132][543]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.52.36:854][720]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.52.36:854][720]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.52.36:854][720]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.52.36:854][720]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.52.36:964][722]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.52.36:964][722]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.52.36:964][722]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.52.36:964][722]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.52.36:964][722]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.52.38:945][762]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.52.39:520][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.12.06-20.52.39:744][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.12.06-20.52.39:761][762]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.52.40:867][762]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.52.40:870][762]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_MasterE124270946E31741854FE6AE7DBCF9AE.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.52.40:887][762]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.12 sec (total: 13.3 sec)
+[2023.12.06-20.52.40:892][762]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.52.40:893][762]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.52.40:926][762]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.52.40:926][762]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.52.40:926][762]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.52.40:926][762]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.52.40:926][762]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.52.40:926][762]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.52.40:926][762]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.52.45:061][832]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.52.45:061][832]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.52.45:061][832]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.52.45:061][832]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.52.45:173][834]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.52.45:173][834]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.52.45:173][834]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.52.45:173][834]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.52.45:173][834]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.52.47:589][881]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.52.48:153][881]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.12.06-20.52.48:375][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.06-20.52.48:390][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.52.49:476][881]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.52.49:479][881]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_Master08BF44974E9EA9EB8771FD9F51B77200.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.52.49:497][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.10 sec (total: 14.4 sec)
+[2023.12.06-20.52.49:502][881]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.52.49:502][881]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.52.49:534][881]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.52.49:534][881]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.52.49:534][881]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.52.49:534][881]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.52.49:534][881]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.52.49:534][881]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.52.49:534][881]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.53.59:485][866]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.53.59:486][866]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2023.12.06-20.53.59:486][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.53.59:486][866]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: ================================================
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: Total job queries 547, among them cache hits 303 (55.39%)
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: Tracking 243 distinct input hashes that result in 134 distinct outputs (55.14%)
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: RAM used: 6.62 MiB of 1.60 GiB budget. Usage: 0.40%
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: Shaders Compiled: 87
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: Jobs assigned 88, completed 87 (98.86%)
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: Average time worker was idle: 7.47 s
+[2023.12.06-20.53.59:964][873]LogShaderCompilers: Display: Time job spent in pending queue: average 1.64 s, longest 4.52 s
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 1.54 s
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Job life time (pending + execution): average 2.26 s, max 5.04
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Shader code size: average 71.046 KiB, min 29.824 KiB, max 98.496 KiB
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.16 s
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Jobs were issued in 88 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Average processing rate: 7.80 jobs/sec
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Total thread time: 42.136 s
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Total thread preprocess time: 4.299 s
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Percentage time preprocessing: 10.20%
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Effective parallelization: 3.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.76 sec, max 0.79 sec, min 0.72 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    2 times, average 0.75 sec, max 0.79 sec, min 0.71 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 0.75 sec, max 0.80 sec, min 0.70 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.75 sec, max 0.78 sec, min 0.71 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 0.74 sec, max 0.76 sec, min 0.72 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.19% of total time (compiled   12 times, average 0.32 sec, max 0.64 sec, min 0.25 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.27% of total time (compiled    5 times, average 0.61 sec, max 1.03 sec, min 0.48 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 5.18% of total time (compiled    7 times, average 0.31 sec, max 0.66 sec, min 0.23 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.59% of total time (compiled    2 times, average 0.76 sec, max 0.79 sec, min 0.72 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight - 3.58% of total time (compiled    2 times, average 0.75 sec, max 0.79 sec, min 0.71 sec)
+[2023.12.06-20.53.59:965][873]LogShaderCompilers: Display: ================================================
+[2023.12.06-20.54.00:018][874]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.54.00:018][874]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.06-20.54.00:018][874]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2023.12.06-20.54.00:018][874]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.54.00:018][874]MaterialEditorStats: Shader Count: 1
+[2023.12.06-20.54.00:213][877]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.54.00:213][877]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.54.00:213][877]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2023.12.06-20.54.00:213][877]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.54.00:213][877]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.54.01:985][911]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.54.02:563][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.12.06-20.54.03:178][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.12.06-20.54.03:194][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.54.05:273][911]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.12.06-20.54.09:045][911]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 5.776429s (3.776429s overbudget)
+[2023.12.06-20.54.10:128][911]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.54.10:131][911]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_Master3B3FD7C645FFEE78D4FFB9B921684568.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.54.10:148][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.95 sec (total: 21.4 sec)
+[2023.12.06-20.54.10:154][911]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.54.10:155][911]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.54.10:187][911]MaterialEditorStats: Base pass shader: 1273 instructions
+[2023.12.06-20.54.10:187][911]MaterialEditorStats: Base pass shader with Surface Lightmap: 1313 instructions
+[2023.12.06-20.54.10:187][911]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.54.10:187][911]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.54.10:187][911]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(7)
+[2023.12.06-20.54.10:187][911]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.54.10:187][911]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.54.24:681][165]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-20.54.34:414][387]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.54.34:414][387]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.54.34:414][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.54.34:414][387]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.54.34:598][389]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.54.34:598][389]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.54.34:598][389]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.54.34:598][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.54.34:598][389]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.54.37:793][452]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.54.38:387][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.12.06-20.54.38:614][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.12.06-20.54.38:629][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.54.39:767][452]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.54.39:770][452]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_Master35EDC6484A5590443C35DDA1806DC139.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.54.39:787][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.15 sec (total: 22.6 sec)
+[2023.12.06-20.54.39:792][452]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.54.39:792][452]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.54.39:824][452]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.54.39:825][452]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.54.39:825][452]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.54.39:825][452]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.54.39:825][452]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.54.39:825][452]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.54.39:825][452]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.55.00:601][928]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.55.00:601][928]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.00:602][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.00:602][928]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.55.01:204][937]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.55.01:204][937]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.06-20.55.01:204][937]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.01:204][937]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.01:204][937]MaterialEditorStats: Shader Count: 1
+[2023.12.06-20.55.01:442][941]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.55.01:442][941]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.55.01:442][941]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.01:442][941]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.01:442][941]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.55.03:856][987]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.55.04:446][987]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.12.06-20.55.05:054][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.12.06-20.55.05:067][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.55.07:161][987]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.12.06-20.55.14:293][987]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 9.137682s (7.137682s overbudget)
+[2023.12.06-20.55.15:320][987]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.55.15:322][987]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_MasterFC244EAA4A1B892FB02B0C9AFEC4CF30.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.55.15:338][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 10.2 sec (total: 32.8 sec)
+[2023.12.06-20.55.15:344][987]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.55.15:344][987]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.55.15:377][987]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.55.15:378][987]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.55.15:378][987]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.55.15:378][987]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.55.15:378][987]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.15:378][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.15:378][987]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.55.26:391][173]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.55.26:391][173]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.26:391][173]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.26:391][173]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.55.26:906][181]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.55.26:906][181]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.06-20.55.26:906][181]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.26:906][181]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.26:906][181]MaterialEditorStats: Shader Count: 1
+[2023.12.06-20.55.27:094][184]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.55.27:094][184]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.55.27:094][184]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.27:094][184]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.27:094][184]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.55.29:137][218]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.55.30:014][218]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.12.06-20.55.30:621][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.12.06-20.55.30:636][218]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.55.32:734][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.12.06-20.55.36:430][218]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 5.701253s (3.701253s overbudget)
+[2023.12.06-20.55.37:393][218]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.55.37:396][218]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_MasterAE80E2A14FB40025308160984C33DDC2.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.55.37:411][218]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.77 sec (total: 39.6 sec)
+[2023.12.06-20.55.37:417][218]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.55.37:418][218]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.55.37:457][218]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.55.37:457][218]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.55.37:457][218]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.55.37:457][218]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.55.37:457][218]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.37:457][218]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.37:457][218]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.55.46:965][381]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.55.46:965][381]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.46:966][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.46:966][381]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.55.47:498][389]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.55.47:498][389]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.06-20.55.47:498][389]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.47:498][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.47:498][389]MaterialEditorStats: Shader Count: 1
+[2023.12.06-20.55.47:689][392]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.55.47:689][392]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.55.47:689][392]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.47:689][392]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.47:689][392]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.55.49:146][419]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.55.49:816][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.12.06-20.55.50:535][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.06-20.55.50:550][419]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.55.52:660][419]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.12.06-20.55.56:244][419]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 5.587287s (3.587287s overbudget)
+[2023.12.06-20.55.57:273][419]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.55.57:276][419]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_Master5616F98B457945AA4ACC1A86EBBEBAE2.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.55.57:293][419]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.74 sec (total: 46.3 sec)
+[2023.12.06-20.55.57:299][419]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.55.57:300][419]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.55.57:334][419]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.55.57:334][419]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.55.57:334][419]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.55.57:334][419]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.55.57:334][419]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.55.57:334][419]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.55.57:334][419]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.56.00:445][468]Cmd: TRANSACTION UNDO
+[2023.12.06-20.56.00:445][468]LogEditorTransaction: Undo Change Number Pin Value
+[2023.12.06-20.56.01:454][497]Cmd: TRANSACTION UNDO
+[2023.12.06-20.56.01:454][497]LogEditorTransaction: Undo Change Number Pin Value
+[2023.12.06-20.56.01:841][498]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.56.01:841][498]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.01:841][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.01:841][498]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.56.01:929][499]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.56.01:929][499]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.56.01:929][499]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.01:929][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.01:929][499]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.56.02:445][508]Cmd: TRANSACTION UNDO
+[2023.12.06-20.56.02:445][508]LogEditorTransaction: Undo Change Number Pin Value
+[2023.12.06-20.56.02:627][508]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.56.02:627][508]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.02:627][508]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.02:627][508]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.56.02:888][509]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.56.02:888][509]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.56.02:888][509]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.02:888][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.02:888][509]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.56.27:616][ 78]LogMaterialEditor: Applying material MM_Water_Master
+[2023.12.06-20.56.28:213][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.12.06-20.56.28:449][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.12.06-20.56.28:509][ 78]MaterialEditorStats: Texture samplers: 2/16
+[2023.12.06-20.56.28:509][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.28:509][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.28:509][ 78]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.56.28:617][ 79]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.56.28:618][ 79]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.56.28:618][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.28:618][ 79]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.28:618][ 79]MaterialEditorStats: Shader Count: 4
+[2023.12.06-20.56.29:451][ 93]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.56.29:453][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.56.30:490][ 93]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.56.30:493][ 93]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_Master8BB8A4014B1ECED3D80DDBBF09EE3789.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.56.30:509][ 93]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.05 sec (total: 47.4 sec)
+[2023.12.06-20.56.30:510][ 93]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.56.30:511][ 93]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.56.30:543][ 93]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.56.30:543][ 93]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.56.30:543][ 93]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.56.30:543][ 93]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.56.30:543][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.30:543][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.30:543][ 93]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.56.35:120][175]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.56.35:121][175]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.35:121][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.35:121][175]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.56.35:241][177]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.56.35:241][177]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.56.35:241][177]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.35:241][177]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.35:241][177]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.56.40:128][261]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.56.40:739][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.12.06-20.56.40:974][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.12.06-20.56.40:989][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.56.42:064][261]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.56.42:067][261]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_Master9A973F9449C5F8F1F0121DB291B26AAB.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.56.42:084][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.09 sec (total: 48.5 sec)
+[2023.12.06-20.56.42:090][261]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.56.42:090][261]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.56.42:124][261]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.56.42:124][261]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.56.42:124][261]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.56.42:124][261]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.56.42:124][261]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.42:124][261]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.42:124][261]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.56.49:320][393]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.56.49:320][393]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.49:320][393]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.49:320][393]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.56.50:207][407]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.56.50:207][407]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.06-20.56.50:207][407]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.50:207][407]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.50:207][407]MaterialEditorStats: Shader Count: 1
+[2023.12.06-20.56.50:387][410]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.56.50:387][410]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.56.50:387][410]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.50:387][410]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.50:387][410]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.56.53:583][466]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.56.53:583][466]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.53:583][466]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.53:583][466]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.56.53:691][468]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.56.53:692][468]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.56.53:692][468]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.56.53:692][468]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.56.53:692][468]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.59.02:962][900]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.59.02:962][900]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.02:962][900]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.02:962][900]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: ================================================
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Total job queries 1,128, among them cache hits 592 (52.48%)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Tracking 536 distinct input hashes that result in 223 distinct outputs (41.60%)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: RAM used: 18.60 MiB of 1.60 GiB budget. Usage: 1.13%
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Shaders Compiled: 380
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Jobs assigned 380, completed 380 (100%)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Average time worker was idle: 5.36 s
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Time job spent in pending queue: average 2.59 s, longest 8.29 s
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Job execution time: average 0.68 s, max 2.13 s
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Job life time (pending + execution): average 3.28 s, max 9.13
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Shader code size: average 73.635 KiB, min 5.215 KiB, max 98.504 KiB
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 41.97 s
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Jobs were issued in 380 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Average processing rate: 9.05 jobs/sec
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Total thread time: 220.321 s
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Total thread preprocess time: 21.227 s
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Percentage time preprocessing: 9.63%
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Effective parallelization: 5.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   10 times, average 0.87 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   10 times, average 0.87 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 0.84 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 0.83 sec, max 1.10 sec, min 0.72 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 0.82 sec, max 1.11 sec, min 0.70 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.32% of total time (compiled   15 times, average 0.63 sec, max 1.94 sec, min 0.23 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.97% of total time (compiled   10 times, average 0.87 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight - 3.94% of total time (compiled   10 times, average 0.87 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.94% of total time (compiled   14 times, average 0.62 sec, max 1.03 sec, min 0.46 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.82% of total time (compiled   10 times, average 0.84 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-20.59.03:024][901]LogShaderCompilers: Display: ================================================
+[2023.12.06-20.59.03:069][902]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.59.03:069][902]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.59.03:069][902]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.03:069][902]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.03:069][902]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.59.06:356][961]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.59.06:356][961]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.06:356][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.06:357][961]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.59.06:466][963]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.59.06:466][963]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.59.06:466][963]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.06:466][963]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.06:466][963]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.59.18:981][503]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-20.59.18:981][503]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.18:981][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.18:981][503]MaterialEditorStats: Shader Count: 0
+[2023.12.06-20.59.19:531][511]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.59.19:531][511]MaterialEditorStats: Texture samplers: 3/16
+[2023.12.06-20.59.19:531][511]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.19:531][511]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.19:531][511]MaterialEditorStats: Shader Count: 1
+[2023.12.06-20.59.19:768][514]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.59.19:768][514]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.59.19:768][514]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.19:768][514]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.19:768][514]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.59.21:212][545]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.59.21:804][545]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.12.06-20.59.22:505][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.12.06-20.59.22:520][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.59.24:620][545]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.12.06-20.59.28:015][545]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 5.395593s (3.395593s overbudget)
+[2023.12.06-20.59.29:050][545]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.59.29:054][545]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_Master194C333F4897499E9B61B5A21B2C9E21.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.59.29:069][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.54 sec (total: 55.0 sec)
+[2023.12.06-20.59.29:075][545]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.59.29:075][545]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.59.29:109][545]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.59.29:109][545]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.59.29:109][545]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.59.29:109][545]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.59.29:109][545]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.29:109][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.29:109][545]MaterialEditorStats: Shader Count: 73
+[2023.12.06-20.59.31:754][587]Cmd: TRANSACTION UNDO
+[2023.12.06-20.59.31:755][587]LogEditorTransaction: Undo Break Pin Link
+[2023.12.06-20.59.32:840][622]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.59.32:840][622]MaterialEditorStats: Texture samplers: 9/16
+[2023.12.06-20.59.32:840][622]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.32:840][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.32:840][622]MaterialEditorStats: Shader Count: 2
+[2023.12.06-20.59.35:019][664]LogMaterialEditor: Saving and Compiling material MM_Water_Master
+[2023.12.06-20.59.35:555][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.12.06-20.59.35:783][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.12.06-20.59.35:797][664]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-20.59.36:884][664]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MM_Water_Master
+[2023.12.06-20.59.36:887][664]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MM_Water_MasterF96974FA43647FBAF904EFA1CAECEAE5.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MM_Water_Master.uasset'
+[2023.12.06-20.59.36:904][664]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.10 sec (total: 56.2 sec)
+[2023.12.06-20.59.36:909][664]AssetCheck: New page: Asset Save: MM_Water_Master
+[2023.12.06-20.59.36:910][664]LogContentValidation: Display: Validating /Script/Engine.Material /Game/StylizedProvencal/Materials/MM_Water_Master.MM_Water_Master
+[2023.12.06-20.59.36:942][664]MaterialEditorStats: Base pass shader: 1277 instructions
+[2023.12.06-20.59.36:942][664]MaterialEditorStats: Base pass shader with Surface Lightmap: 1317 instructions
+[2023.12.06-20.59.36:942][664]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2023.12.06-20.59.36:942][664]MaterialEditorStats: Texture samplers: 10/16
+[2023.12.06-20.59.36:942][664]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2023.12.06-20.59.36:942][664]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-20.59.36:942][664]MaterialEditorStats: Shader Count: 73
+[2023.12.06-21.09.31:215][948]Cmd: TRANSACTION UNDO
+[2023.12.06-21.09.31:215][948]LogEditorTransaction: Undo Edit Depth Fade Distance
+[2023.12.06-21.09.33:562][987]Cmd: TRANSACTION UNDO
+[2023.12.06-21.09.33:562][987]LogEditorTransaction: Undo Edit Depth Fade Distance
+[2023.12.06-21.09.48:065][254]Cmd: TRANSACTION UNDO
+[2023.12.06-21.09.48:065][254]LogEditorTransaction: Undo Edit Depth Fade Opacity
+[2023.12.06-21.09.49:095][267]Cmd: TRANSACTION UNDO
+[2023.12.06-21.09.49:095][267]LogEditorTransaction: Undo Edit Depth Fade Distance
+[2023.12.06-21.10.59:697][945]Cmd: TRANSACTION UNDO
+[2023.12.06-21.10.59:697][945]LogEditorTransaction: Undo Edit Foam Contrast
+[2023.12.06-21.11.10:893][182]Cmd: TRANSACTION UNDO
+[2023.12.06-21.11.10:893][182]LogEditorTransaction: Undo Edit Slope Bias
+[2023.12.06-21.11.34:743][691]Cmd: TRANSACTION UNDO
+[2023.12.06-21.11.34:743][691]LogEditorTransaction: Undo Edit Slope Bias
+[2023.12.06-21.11.46:462][951]Cmd: TRANSACTION UNDO
+[2023.12.06-21.11.46:462][951]LogEditorTransaction: Undo Edit Slope Foam Distance
+[2023.12.06-21.11.50:352][ 29]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-21.11.50:352][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-21.13.16:780][ 39]Cmd: TRANSACTION UNDO
+[2023.12.06-21.13.16:780][ 39]LogEditorTransaction: Undo Edit Foam Contrast
+[2023.12.06-21.14.41:173][828]Cmd: TRANSACTION UNDO
+[2023.12.06-21.14.41:174][828]LogEditorTransaction: Undo Edit Opacity Min
+[2023.12.06-21.14.57:224][167]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.12.06-21.14.57:241][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-21.14.57:284][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/Main" FILE="E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/Level/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.06-21.14.57:372][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.12.06-21.14.57:462][167]LogSavePackage: Moving output files for package: /Game/Level/Main
+[2023.12.06-21.14.57:465][167]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MainADA30E9840EEF78E9722AA9C2DD3B109.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/Level/Main.umap'
+[2023.12.06-21.14.57:525][167]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/Level/Main/7/L8/YH9PTKNLVPMOF4ULZ8M03T
+/Game/__ExternalActors__/Level/Main/6/G1/957D8TM90NQY1MP4UYOD37
+/Game/__ExternalActors__/Level/Main/3/KA/C369UW1HJQEOWDTKLV7FUQ
+/Game/__ExternalActors__/Level/Main/4/K2/FAG4DLGV7N2V88PJ3M29XZ
+[2023.12.06-21.14.57:525][167]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-21.14.57:560][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.12.06-21.14.57:600][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.12.06-21.14.57:644][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.12.06-21.15.01:873][167]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/7/L8/YH9PTKNLVPMOF4ULZ8M03T
+[2023.12.06-21.15.01:876][167]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/YH9PTKNLVPMOF4ULZ8M03TD653D42C483D3AE11C8742A978E36975.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/7/L8/YH9PTKNLVPMOF4ULZ8M03T.uasset'
+[2023.12.06-21.15.01:889][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.36 sec (total: 1:00 min)
+[2023.12.06-21.15.01:889][167]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/Level/Main/7/L8/YH9PTKNLVPMOF4ULZ8M03T
+[2023.12.06-21.15.01:904][167]LogFileHelpers: Saving map 'Main' took 4.626
+[2023.12.06-21.15.06:045][167]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Level/Main/7/L8/YH9PTKNLVPMOF4ULZ8M03T
+[2023.12.06-21.15.06:048][167]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/YH9PTKNLVPMOF4ULZ8M03T7FF264C142A12E689C4F6F9D81A3ECE9.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/__ExternalActors__/Level/Main/7/L8/YH9PTKNLVPMOF4ULZ8M03T.uasset'
+[2023.12.06-21.15.06:548][167]LogSavePackage: Moving output files for package: /Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01
+[2023.12.06-21.15.06:551][167]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/shot0020_0185ABC95C42BA1659F2E10099BFD9F294.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01.uasset'
+[2023.12.06-21.15.06:832][167]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Blueprints/BP_RiverSpline
+[2023.12.06-21.15.06:835][167]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/BP_RiverSplineA341AE354A63646C555F5699F7BABF3D.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Blueprints/BP_RiverSpline.uasset'
+[2023.12.06-21.15.06:958][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.12.06-21.15.06:992][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.12.06-21.15.07:005][167]LogSavePackage: Moving output files for package: /Game/StylizedProvencal/Materials/MI_Water_01
+[2023.12.06-21.15.07:008][167]LogSavePackage: Moving 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Saved/MI_Water_015F3F438A424B62CB2F7B0CA607408795.tmp' to 'E:/Tardigrade/EpicMegaGrant/UnrealWork/MythicMenagerie_Simurgh/MM_S_Proj/Content/StylizedProvencal/Materials/MI_Water_01.uasset'
+[2023.12.06-21.15.07:027][167]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.78 sec (total: 1:10 min)
+[2023.12.06-21.15.07:034][167]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.06-21.15.07:034][167]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level/Main.Main
+[2023.12.06-21.15.07:034][167]LogContentValidation: Display: Validating /Game/StylizedProvencal/Blueprints/BP_RiverSpline.BP_RiverSpline_C /Game/Level/Main.Main:PersistentLevel.BP_RiverSpline_C_UAID_CC6B1E422FF0BBC001_1606081823
+[2023.12.06-21.15.07:034][167]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Animation/Cinematics/Sequences/MainSequence/shot/AirView/shot0020_01.shot0020_01
+[2023.12.06-21.15.07:034][167]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/StylizedProvencal/Blueprints/BP_RiverSpline.BP_RiverSpline
+[2023.12.06-21.15.07:034][167]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/StylizedProvencal/Materials/MI_Water_01.MI_Water_01
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: ================================================
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: Total job queries 1,298, among them cache hits 687 (52.93%)
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: Tracking 611 distinct input hashes that result in 247 distinct outputs (40.43%)
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: RAM used: 21.66 MiB of 1.60 GiB budget. Usage: 1.32%
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: Shaders Compiled: 455
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: Jobs assigned 455, completed 455 (100%)
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: Average time worker was idle: 12.75 s
+[2023.12.06-21.17.30:313][ 39]LogShaderCompilers: Display: Time job spent in pending queue: average 2.54 s, longest 8.29 s
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 2.13 s
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Job life time (pending + execution): average 3.22 s, max 9.13
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Shader code size: average 73.738 KiB, min 5.215 KiB, max 98.504 KiB
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 49.69 s
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Jobs were issued in 455 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Average processing rate: 9.16 jobs/sec
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Total thread time: 258.109 s
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Total thread preprocess time: 24.959 s
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Percentage time preprocessing: 9.67%
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Effective parallelization: 5.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   12 times, average 0.86 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   12 times, average 0.82 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.81 sec, max 1.10 sec, min 0.70 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.80 sec, max 1.11 sec, min 0.67 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.47% of total time (compiled   18 times, average 0.64 sec, max 1.94 sec, min 0.23 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.98% of total time (compiled   12 times, average 0.86 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight - 3.92% of total time (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.81% of total time (compiled   12 times, average 0.82 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.81% of total time (compiled   16 times, average 0.61 sec, max 1.03 sec, min 0.46 sec)
+[2023.12.06-21.17.30:314][ 39]LogShaderCompilers: Display: ================================================
+[2023.12.06-21.19.57:161][801]LogSlate: Window 'Sequencer Curves' being destroyed
+[2023.12.06-21.19.57:173][801]LogSlate: Window 'Sequencer Curves' being destroyed
+[2023.12.06-21.20.08:483][213]LogSlate: External Image Picker: DecompressImage failed
+[2023.12.06-21.20.13:737][285]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-21.20.13:737][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-21.20.23:659][457]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-21.20.23:659][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-21.20.39:807][756]Cmd: TRANSACTION UNDO
+[2023.12.06-21.20.39:807][756]LogEditorTransaction: Undo Edit Noise_Color_Power
+[2023.12.06-21.21.11:768][393]Cmd: TRANSACTION UNDO
+[2023.12.06-21.21.11:768][393]LogEditorTransaction: Undo Edit Noise_Color_Tiling_X
+[2023.12.06-21.21.15:813][466]Cmd: TRANSACTION UNDO
+[2023.12.06-21.21.15:813][466]LogEditorTransaction: Undo Edit Noise_Color_Strength_Min
+[2023.12.06-21.22.27:502][ 12]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.06-21.22.40:452][282]Cmd: TRANSACTION UNDO
+[2023.12.06-21.22.40:452][282]LogEditorTransaction: Undo Edit Noise_Blend_Tiling_X
+[2023.12.06-21.25.49:424][817]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Terrain/FoilageProps/Grass/Grass_0.Grass_0
+[2023.12.06-21.25.49:452][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.06-21.25.49:452][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-21.25.50:032][817]LogViewport: Scene viewport resized to 1415x1251, mode Windowed.
+[2023.12.06-21.27.48:951][835]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-21.27.49:713][848]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-21.28.05:262][146]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-21.28.26:407][535]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-21.28.39:413][778]LogViewport: Scene viewport resized to 2951x1010, mode Windowed.
+[2023.12.06-21.28.49:065][955]LogViewport: Scene viewport resized to 1791x1008, mode Windowed.
+[2023.12.06-21.28.52:544][ 21]LogDerivedDataCache: C:/Users/elkinse/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:03:40.922 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 135374 files in 88735 folders with total size 3462 MiB.
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: ================================================
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Total job queries 1,326, among them cache hits 698 (52.64%)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Tracking 628 distinct input hashes that result in 258 distinct outputs (41.08%)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: RAM used: 22.05 MiB of 1.60 GiB budget. Usage: 1.35%
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Shaders Compiled: 455
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Jobs assigned 455, completed 455 (100%)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Average time worker was idle: 12.75 s
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Time job spent in pending queue: average 2.54 s, longest 8.29 s
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 2.13 s
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Job life time (pending + execution): average 3.22 s, max 9.13
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Shader code size: average 73.738 KiB, min 5.215 KiB, max 98.504 KiB
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 49.69 s
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Jobs were issued in 455 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Average processing rate: 9.16 jobs/sec
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Total thread time: 258.109 s
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Total thread preprocess time: 24.959 s
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Percentage time preprocessing: 9.67%
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Effective parallelization: 5.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   12 times, average 0.86 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   12 times, average 0.82 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.81 sec, max 1.10 sec, min 0.70 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.80 sec, max 1.11 sec, min 0.67 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.47% of total time (compiled   18 times, average 0.64 sec, max 1.94 sec, min 0.23 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.98% of total time (compiled   12 times, average 0.86 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight - 3.92% of total time (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.81% of total time (compiled   12 times, average 0.82 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.81% of total time (compiled   16 times, average 0.61 sec, max 1.03 sec, min 0.46 sec)
+[2023.12.06-21.30.18:765][676]LogShaderCompilers: Display: ================================================
+[2023.12.06-21.30.20:384][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.06-21.35.16:216][ 34]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Terrain/FoilageProps/WaterColor_ColorMat.WaterColor_ColorMat
+[2023.12.06-21.35.16:309][ 34]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.06-21.35.16:309][ 34]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-21.35.16:619][ 34]MaterialEditorStats: Texture samplers: 0/16
+[2023.12.06-21.35.16:619][ 34]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.12.06-21.35.16:619][ 34]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-21.35.16:619][ 34]MaterialEditorStats: Shader Count: 0
+[2023.12.06-21.35.16:632][ 34]LogViewport: Scene viewport resized to 589x623, mode Windowed.
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: ================================================
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Total job queries 1,333, among them cache hits 698 (52.36%)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Tracking 635 distinct input hashes that result in 261 distinct outputs (41.10%)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: RAM used: 22.20 MiB of 1.60 GiB budget. Usage: 1.35%
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Shaders Compiled: 455
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Jobs assigned 455, completed 455 (100%)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Average time worker was idle: 12.75 s
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Time job spent in pending queue: average 2.54 s, longest 8.29 s
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 2.13 s
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Job life time (pending + execution): average 3.22 s, max 9.13
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Shader code size: average 73.738 KiB, min 5.215 KiB, max 98.504 KiB
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 49.69 s
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Jobs were issued in 455 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Average processing rate: 9.16 jobs/sec
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Total thread time: 258.109 s
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Total thread preprocess time: 24.959 s
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Percentage time preprocessing: 9.67%
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Effective parallelization: 5.19 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   12 times, average 0.86 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   12 times, average 0.82 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.81 sec, max 1.10 sec, min 0.70 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.80 sec, max 1.11 sec, min 0.67 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.47% of total time (compiled   18 times, average 0.64 sec, max 1.94 sec, min 0.23 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.98% of total time (compiled   12 times, average 0.86 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight - 3.92% of total time (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.81% of total time (compiled   12 times, average 0.82 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.81% of total time (compiled   16 times, average 0.61 sec, max 1.03 sec, min 0.46 sec)
+[2023.12.06-21.35.16:745][ 35]LogShaderCompilers: Display: ================================================
+[2023.12.06-21.35.16:824][ 36]MaterialEditorStats: Base pass shader: 341 instructions
+[2023.12.06-21.35.16:824][ 36]MaterialEditorStats: Base pass vertex shader: 142 instructions
+[2023.12.06-21.35.16:824][ 36]MaterialEditorStats: Texture samplers: 7/16
+[2023.12.06-21.35.16:824][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2023.12.06-21.35.16:824][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.12.06-21.35.16:824][ 36]MaterialEditorStats: Shader Count: 8
+[2023.12.06-21.37.05:143][ 27]LogSlate: Took 0.005321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.12.06-21.37.18:180][280]Cmd: TRANSACTION UNDO
+[2023.12.06-21.37.18:180][280]LogEditorTransaction: Undo Edit Source Angle
+[2023.12.06-21.37.36:317][647]Cmd: TRANSACTION UNDO
+[2023.12.06-21.37.36:317][647]LogEditorTransaction: Undo Edit Volumetric Scattering Intensity
+[2023.12.06-21.37.53:671][192]LogSlate: Window 'Plugins' being destroyed
+[2023.12.06-21.37.53:678][192]LogSlate: Window 'Plugins' being destroyed
+[2023.12.06-21.37.53:749][192]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.12.06-21.37.58:187][391]LogSlate: External Image Picker: DecompressImage failed
+[2023.12.06-21.38.29:620][999]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.06-21.38.29:627][999]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.06-21.38.44:453][522]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.12.06-21.38.44:463][522]LogSlate: Window 'Editor Preferences' being destroyed
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: ================================================
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Total job queries 1,347, among them cache hits 708 (52.56%)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Tracking 639 distinct input hashes that result in 265 distinct outputs (41.47%)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: RAM used: 22.29 MiB of 1.60 GiB budget. Usage: 1.36%
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Shaders Compiled: 459
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Jobs assigned 459, completed 459 (100%)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Average time worker was idle: 28.96 s
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Time job spent in pending queue: average 2.52 s, longest 8.29 s
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 2.13 s
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Job life time (pending + execution): average 3.20 s, max 9.13
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Shader code size: average 73.427 KiB, min 5.215 KiB, max 98.504 KiB
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 50.83 s
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Jobs were issued in 459 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Average processing rate: 9.03 jobs/sec
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Total thread time: 260.394 s
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Total thread preprocess time: 26.436 s
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Percentage time preprocessing: 10.15%
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Effective parallelization: 5.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled   12 times, average 0.86 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   12 times, average 0.82 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.81 sec, max 1.10 sec, min 0.70 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   12 times, average 0.80 sec, max 1.11 sec, min 0.67 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.92% of total time (compiled   20 times, average 0.64 sec, max 1.94 sec, min 0.23 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 3.94% of total time (compiled   12 times, average 0.86 sec, max 1.55 sec, min 0.64 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight - 3.88% of total time (compiled   12 times, average 0.84 sec, max 1.51 sec, min 0.71 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 3.77% of total time (compiled   12 times, average 0.82 sec, max 1.47 sec, min 0.65 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 3.77% of total time (compiled   16 times, average 0.61 sec, max 1.03 sec, min 0.46 sec)
+[2023.12.06-21.39.10:956][840]LogShaderCompilers: Display: ================================================
